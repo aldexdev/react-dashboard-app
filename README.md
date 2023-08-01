@@ -1,5 +1,5 @@
 # REACT ADMINISTRATION DASHBOARD WEB APP
-Admin Dashboard Web Application developed using ReactJS and .
+Admin Dashboard Web Application developed using ReactJS, Tailwind and React Charts.
 
 To test the application:
 - Clone the repository.
