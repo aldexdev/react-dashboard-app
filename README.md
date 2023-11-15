@@ -12,7 +12,7 @@ npm install
 - Run the development server.
 
 ```
-npm run dev
+npm start
 ```
 
 - Open http://localhost:3000 on your browser to see the result.
